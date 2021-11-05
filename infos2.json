@@ -1,0 +1,6 @@
+{
+    "email": "hugo.frangos@epitech.eu",
+    "password": "123456789",
+    "baseurl": "http://127.0.0.1:8000",
+    "filename": "info2.xlsx"
+}
