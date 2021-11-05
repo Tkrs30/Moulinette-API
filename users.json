@@ -1,0 +1,14 @@
+[
+    {
+        "email": "hugo.frangos@epitech.eu",
+        "password": "123456789",
+        "filename": "info1.xlsx",
+        "id": "1"
+    },
+    {
+        "email": "tnb.golden30@gmail.com",
+        "password": "12345678",
+        "filename": "info2.xlsx",
+        "id": "2"
+    }
+]
